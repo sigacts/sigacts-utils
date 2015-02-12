@@ -1,7 +1,7 @@
 # sigacts-utils
 
 ### batchCreateSrc.py
-Ingest a URL and output a clean source domain.
+Ingest a batch of URLs and output clean "source" domains.
 > Example: `http://www.cnn.com/2015/02/12/europe/ukraine-conflict/index.html` becomes `cnn.com`
 
 ## diffBot.py
